@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-auth/#history
 
+### [1.7.2](https://www.github.com/googleapis/google-auth-library-python/compare/v1.7.1...v1.7.2) (2019-11-25)
+
+
+### Bug Fixes
+
+* make gRPC auth plugin non-blocking + add default timeout value for requests transport ([#390](https://www.github.com/googleapis/google-auth-library-python/issues/390)) ([0c33e9c](https://www.github.com/googleapis/google-auth-library-python/commit/0c33e9c0fe4f87fa46c8f1a5afe725a467ac5fcc)), closes [#351](https://www.github.com/googleapis/google-auth-library-python/issues/351)
+
 ### [1.7.1](https://www.github.com/googleapis/google-auth-library-python/compare/v1.7.0...v1.7.1) (2019-11-13)
 
 
